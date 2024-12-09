@@ -14,7 +14,7 @@ public class Game {
         int choice = JOptionPane.showOptionDialog(
                 null,
                 "Choose game mode:",
-                "Game Mode",
+                "Tic Tac Toe",
                 JOptionPane.DEFAULT_OPTION,
                 JOptionPane.INFORMATION_MESSAGE,
                 null,
